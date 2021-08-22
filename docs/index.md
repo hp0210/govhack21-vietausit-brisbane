@@ -1,9 +1,12 @@
 
 ## Govhack 2021 - Team 1468 - VietAusIt -Brisbane
 ## Outliers Project
-### Evident of Works / Quicklinks
+
+## Demo
 * [High Fidelity Prototye](https://www.figma.com/file/QXa9VS0JQmNDGXRDEcsvhX/GovhackBrisbane?node-id=0%3A1)
 * [Quick POC implementation for the user interface](https://govhack.vercel.app)
+
+## Evident of Works / Quicklinks
 * Brainstorming session
   - [Ideals for challenges](https://miro.com/app/board/o9J_l3KV1eE=/)
   - [Ideals for the POC](https://miro.com/app/board/o9J_l1NG-mw=/)
