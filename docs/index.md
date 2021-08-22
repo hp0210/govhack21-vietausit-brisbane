@@ -14,7 +14,7 @@
   - [POC implementation UI](https://github.com/dohaicuong/govhack)
   - [General Data Processing](https://github.com/rodonguyen/vait-govhack-data)
   - [Statistical Areas Data aggregation](https://github.com/punkupoz/data-wrangle-govhack)
-* Presentation Slide
+* [Presentation Slide](https://www.canva.com/design/DAEnyXTI_kE/QjL0jfFrYKbGLv72zYas_w/view?utm_content=DAEnyXTI_kE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 * [Team work photo](https://drive.google.com/drive/folders/1arkY6Qp8fznHLuC_mPsPX0mTOmr2r4Se?usp=sharing)
 
 ### Project Description
