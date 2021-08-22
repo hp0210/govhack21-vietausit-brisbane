@@ -8,6 +8,8 @@
   - [Ideals for challenges](https://miro.com/app/board/o9J_l3KV1eE=/)
   - [Ideals for the POC](https://miro.com/app/board/o9J_l1NG-mw=/)
 * Code Repository [To be updated]
+  - [POC implementation UI](https://github.com/dohaicuong/govhack)
+  - [Data processing](https://github.com/rodonguyen/vait-govhack-data)
 * Presentation Slide
 * Team work photo
 
