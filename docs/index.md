@@ -8,8 +8,8 @@
 
 ## Evident of Works / Quicklinks
 * Brainstorming session
-  - [Ideals for challenges](https://miro.com/app/board/o9J_l3KV1eE=/)
-  - [Ideals for the POC](https://miro.com/app/board/o9J_l1NG-mw=/)
+  - [Ideas for challenges](https://miro.com/app/board/o9J_l3KV1eE=/)
+  - [Ideas for the POC](https://miro.com/app/board/o9J_l1NG-mw=/)
 * Code Repository
   - [POC implementation UI](https://github.com/dohaicuong/govhack)
   - [General Data Processing](https://github.com/rodonguyen/vait-govhack-data)
