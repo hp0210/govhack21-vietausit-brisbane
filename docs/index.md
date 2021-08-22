@@ -4,9 +4,12 @@
 ### Evident of Works / Quicklinks
 * [High Fidelity Prototye](https://www.figma.com/file/QXa9VS0JQmNDGXRDEcsvhX/GovhackBrisbane?node-id=0%3A1)
 * [Quick POC implementation for the user interface](https://govhack.vercel.app)
-* Code Repository [To be updated]
-* Team work photo
 * Brainstorming session
+  - [Ideals for challenges](https://miro.com/app/board/o9J_l3KV1eE=/)
+  - [Ideals for the POC](https://miro.com/app/board/o9J_l1NG-mw=/)
+* Code Repository [To be updated]
+* Presentation Slide
+* Team work photo
 
 ### Project Description
 We implement a reverse search that allows general public to build skill profiles and match their skill set to the potential industry and career paths.
